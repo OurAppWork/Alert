@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NamazAlert</string>
+    <string name="firstnamaz">Fajr</string>
+    <string name="secondnamaz">Zohr</string>
+    <string name="thirdnamaz">Asar</string>
+    <string name="fourthnamaz">Magrib</string>
+    <string name="fifthnamaz">Isha</string>
+
+    <string name="exitbutton">Leave</string>
+
+</resources>
